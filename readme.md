@@ -11,3 +11,5 @@ These codes are written in MATLAB.
     * Newton-Raphson method
         * With manual first derivative input
         * Without manual first derivative input
+* Interpolation
+    * Lagrange's Interpolation
