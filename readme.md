@@ -12,4 +12,5 @@ These codes are written in MATLAB.
         * With manual first derivative input
         * Without manual first derivative input
 * Interpolation
-    * Lagrange's Interpolation
+    * Lagrange's interpolation
+    * Newton's forward difference interpolation
